@@ -1841,7 +1841,7 @@ input, select, textarea {
 	}
 
 	.box.excerpt .date {
-		background: #878787;
+		background: #ed786a;
 		color: #fff;
 		font-weight: 400;
 		text-transform: uppercase;
@@ -1849,10 +1849,10 @@ input, select, textarea {
 		border: 0;
 		box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
 		display: inline-block;
-		font-size: 0.85em;
+		font-size: 1.05em;
 		letter-spacing: 2px;
 		padding: 0.25em 1em 0.25em 1em;
-		margin: 0 0 2.5em 0;
+		margin: 0 0 0.75em 0;
 	}
 
 /* Icons */
